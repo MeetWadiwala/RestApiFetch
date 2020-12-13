@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RestApiFetch/static/css/main.b53a335a.chunk.css",
+    "main.js": "/RestApiFetch/static/js/main.78923285.chunk.js",
+    "main.js.map": "/RestApiFetch/static/js/main.78923285.chunk.js.map",
+    "runtime-main.js": "/RestApiFetch/static/js/runtime-main.1661ba7a.js",
+    "runtime-main.js.map": "/RestApiFetch/static/js/runtime-main.1661ba7a.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/RestApiFetch/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a62eff93.chunk.js": "/RestApiFetch/static/js/2.a62eff93.chunk.js",
+    "static/js/2.a62eff93.chunk.js.map": "/RestApiFetch/static/js/2.a62eff93.chunk.js.map",
+    "static/js/3.072e4b38.chunk.js": "/RestApiFetch/static/js/3.072e4b38.chunk.js",
+    "static/js/3.072e4b38.chunk.js.map": "/RestApiFetch/static/js/3.072e4b38.chunk.js.map",
+    "index.html": "/RestApiFetch/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/RestApiFetch/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.b53a335a.chunk.css.map": "/RestApiFetch/static/css/main.b53a335a.chunk.css.map",
+    "static/js/2.a62eff93.chunk.js.LICENSE.txt": "/RestApiFetch/static/js/2.a62eff93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1661ba7a.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a62eff93.chunk.js",
+    "static/css/main.b53a335a.chunk.css",
+    "static/js/main.78923285.chunk.js"
+  ]
+}
